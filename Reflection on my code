@@ -1,0 +1,11 @@
+Author: Azriel Eli D. Sotto
+Grade and Section: Grade 8 - Sampaguita
+
+1. **What did you learn about handling user input in this activity?**
+   Users rarely type data in a neat, consistent format—they might accidentally add extra spaces or use all lowercase letters. Using string methods like `.strip()`, `.title()`, and `.upper()` ensures the final output looks professional regardless of how messy the input is.
+2. **How did using the `datetime` module improve your program?**
+   Instead of just printing raw numbers separated by slashes, `datetime` allowed me to convert numeric inputs into a proper date object and format it with `strftime()` so the month name is spelled out clearly.
+3. **Why is version control (GitHub) useful when building programs?**
+   Saving the project in three separate versions helped me build the program step-by-step. Starting with basic inputs and outputs made it easier to test my logic before adding string formatting and date handling, and it gives a clear history of how the code improved over time.
+
+<FollowUp label="Want me to add input validation so the program doesn't crash on invalid dates?" query="Update Version 3 of the Python event registration program to include basic error handling for invalid dates or non-numeric inputs."/>
