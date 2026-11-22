@@ -1,0 +1,1 @@
+Added string manipulation methods (strip(), title(), upper()) to clean user inputs.
